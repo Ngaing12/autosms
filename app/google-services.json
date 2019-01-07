@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "806217402301",
+    "firebase_url": "https://ayoantre-1.firebaseio.com",
+    "project_id": "ayoantre-1",
+    "storage_bucket": "ayoantre-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806217402301:android:6f3c862ac90fc8b2",
+        "android_client_info": {
+          "package_name": "com.example.sonic.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806217402301-e5cjffd48hadl7flf84ng5locamp2n0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sonic.myapplication",
+            "certificate_hash": "ed4a5b492a6937eb94bb6704aac0a71f2866c0e9"
+          }
+        },
+        {
+          "client_id": "806217402301-6i4du9f0ba6n4fu81j08so7k0e615ojr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjxuHfaOWmNthPIEEFukVcyj3L4QDMn2E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806217402301-6i4du9f0ba6n4fu81j08so7k0e615ojr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
